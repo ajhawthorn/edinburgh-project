@@ -53,6 +53,7 @@ header {
   font-family: "Trebuchet MS", "Lucida Sans Unicode", "Lucida Grande",
     "Lucida Sans", Arial, sans-serif;
   color: #c6beab;
+  padding-left: 20px;
 }
 
 .nav-item {
