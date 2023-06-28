@@ -1,0 +1,215 @@
+* {
+  font-family: Trebuchet;
+}
+
+h1 {
+  font-family: "Trebuchet MS", "Lucida Sans Unicode", "Lucida Grande",
+    "Lucida Sans", Arial, sans-serif;
+  font-size: 3em;
+  padding: 20px;
+  background-color: #b91372;
+  color: #c6beab;
+}
+
+h2 {
+  font-family: "Trebuchet MS", "Lucida Sans Unicode", "Lucida Grande",
+    "Lucida Sans", Arial, sans-serif;
+  font-size: 2.5em;
+  padding: 30px;
+}
+
+h3 {
+  font-family: "Trebuchet MS", "Lucida Sans Unicode", "Lucida Grande",
+    "Lucida Sans", Arial, sans-serif;
+  font-size: 2em;
+  padding: 30px;
+  color: #c6beab;
+}
+#comments-header {
+  font-family: "Trebuchet MS", "Lucida Sans Unicode", "Lucida Grande",
+    "Lucida Sans", Arial, sans-serif;
+  font-size: 2em;
+  padding: 30px;
+  color: #537d8d;
+}
+
+body {
+  background-color: #c6beab;
+}
+
+header {
+  background-color: #b91372;
+}
+
+.navbar {
+  font-size: 2em;
+  color: #c6beab;
+  font-family: "Trebuchet MS", "Lucida Sans Unicode", "Lucida Grande",
+    "Lucida Sans", Arial, sans-serif;
+}
+
+.navbar-brand {
+  font-size: 2em;
+  font-family: "Trebuchet MS", "Lucida Sans Unicode", "Lucida Grande",
+    "Lucida Sans", Arial, sans-serif;
+  color: #c6beab;
+}
+
+.nav-item {
+  font-size: 0.5em;
+  font-family: "Trebuchet MS", "Lucida Sans Unicode", "Lucida Grande",
+    "Lucida Sans", Arial, sans-serif;
+  color: #c6beab;
+}
+
+.hero-image {
+  position: relative;
+  height: 100vh;
+  width: 100%;
+  display: flex;
+  align-items: center;
+  justify-content: left;
+  background-image: url("images/Edinburgh-hero4.jpg");
+  background-size: cover;
+}
+
+.hero-image h2 {
+  font-family: "Trebuchet MS", "Lucida Sans Unicode", "Lucida Grande",
+    "Lucida Sans", Arial, sans-serif;
+  font-size: 3em;
+  padding: 30px;
+  color: #c6beab;
+}
+
+.intro-para {
+  background-color: #c6beab;
+  font-family: "Trebuchet MS", "Lucida Sans Unicode", "Lucida Grande",
+    "Lucida Sans", Arial, sans-serif;
+  font-size: 1.5em;
+  padding: 30px;
+  color: #532412;
+}
+
+.quote {
+  background-color: #537d8d;
+  padding: 30px 15px;
+  font-weight: 400;
+  font-size: 1.5em;
+  font-style: italic;
+  color: #c6beab;
+  display: flex;
+  justify-content: center;
+}
+
+.discover {
+  background-color: #c6beab;
+  padding: 30px;
+  font-size: 1em;
+  color: #532412;
+}
+
+.btn {
+  color: #c6beab;
+  background-color: #b91372;
+}
+
+.btn:hover {
+  color: #c6beab;
+  background-color: #537d8d;
+}
+
+.mailing-list {
+  color: #c6beab;
+  background-color: #537d8d;
+}
+
+.row-footer {
+  font-family: "Trebuchet MS", "Lucida Sans Unicode", "Lucida Grande",
+    "Lucida Sans", Arial, sans-serif;
+  color: #c6beab;
+  background-color: #537d8d;
+  padding: 10px;
+}
+
+.row-forms {
+  font-family: "Trebuchet MS", "Lucida Sans Unicode", "Lucida Grande",
+    "Lucida Sans", Arial, sans-serif;
+  color: #c6beab;
+  background-color: #537d8d;
+  padding: 10px;
+}
+
+.form-control {
+  background-color: #c6beab;
+  margin: 5px 5px 0px 20px;
+  padding: 10px;
+}
+
+h2.attractions-header {
+  color: #537d8d;
+}
+
+h2.festivals-header {
+  color: #537d8d;
+}
+
+h2.save-for-later-header {
+  color: #537d8d;
+}
+
+.attractions-list {
+  font-size: 1.5em;
+  color: #532412;
+}
+
+.attractions-header {
+  font-size: 2em;
+  color: #532412;
+}
+
+.festivals-header {
+  font-family: "Trebuchet MS", "Lucida Sans Unicode", "Lucida Grande",
+    "Lucida Sans", Arial, sans-serif;
+}
+
+nav {
+  background-color: #b91372;
+}
+
+.form-row {
+  display: flex;
+  align-items: center;
+  margin-bottom: 10px;
+}
+
+.form-row label {
+  margin-right: 10px;
+  width: 80px;
+  text-align: right;
+}
+
+.form-row input,
+.form-row textarea {
+  flex: 1;
+}
+
+.like-button {
+  color: #c6beab;
+  background-color: #b91372;
+  font-size: 0.5em;
+}
+
+.like-button:hover {
+  color: #c6beab;
+  background-color: #537d8d;
+}
+
+.btn {
+  color: #c6beab;
+  background-color: #b91372;
+}
+
+.btn:hover {
+  color: #c6beab;
+  background-color: #537d8d;
+}
